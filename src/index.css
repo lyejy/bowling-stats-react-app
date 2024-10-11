@@ -1,0 +1,27 @@
+/* BowlingStats.css */
+
+/* Add styling to the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Example styling for headers */
+  th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
+  
+  /* Add styles to H2 headings */
+  h2 {
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+    color: #333;
+  }
+  

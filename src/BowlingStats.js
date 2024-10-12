@@ -32,7 +32,7 @@ const BowlingStats = () => {
 
       // Filter to remove empty rows from Leaderboard
       const filteredLeaderboard = leaderboardData.filter((row, index) => {
-        return index >= 0 && index <= 7;
+        return index >= 0 && index <= 9;
       });
 
       setRawStats(filteredRawStats);
